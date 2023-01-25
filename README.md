@@ -6,7 +6,7 @@ To design a website to perform mathematical calculations in server side.
 
 # DESIGN STEPS:
 
-## Step 1:Publish the website in the given URL
+## Step 1:
 
 Design your website for any mathematical calculation using wireframe work.
 
