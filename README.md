@@ -94,7 +94,7 @@ math.html :
             </div>
         </form>
     </div>
-     <p>Developed by Sabari Akash A (22009103)</p>
+     <p>Developed by Pradeep raj.P (22009131)</p>
 </body>
 </html>
 
